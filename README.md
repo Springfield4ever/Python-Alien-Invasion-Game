@@ -1,6 +1,6 @@
 # [Python-Alien-Invasion-Game-Release][url]
 A pygame Alien Invasion case with tkinter GUI initialization window.
-<br>·Inspired and Instructed by Eric Matthes's [Python Crash Course][book].
+<br>·Inspired and Instructed by [Eric Matthes][ehmatthes]'s [Python Crash Course][book].
 <br>·Major improvement are as follows:
 <br>  -Saving highest score via .json file before shutting down the game.
 <br>  -Introducing sound effects as shots fired, enemies eliminated, level up, crashes or failures. Main title bgm will be muted as game starts.
@@ -11,3 +11,4 @@ A pygame Alien Invasion case with tkinter GUI initialization window.
 
 [url]:https://github.com/Springfield4ever/Python-Alien-Invasion-Game/releases/tag/Executable
 [book]:https://nostarch.com/pythoncrashcourse2e
+[ehmatthes]:https://github.com/ehmatthes
