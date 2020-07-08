@@ -1,6 +1,6 @@
 # [Python-Alien-Invasion-Game-Release][url]
 <br>·A pygame Alien Invasion case with tkinter GUI initialization window.
-<br>·Inspired and Instructed by [Eric Matthes][ehmatthes]'s [Python Crash Course][book].
+<br>·Inspired and instructed by [Eric Matthes][ehmatthes]'s [Python Crash Course][book].
 <br>·Major improvements are as follows:
 <br> -Animated alien figures.
 <br> -Saving highest score via .json file before shutting down the game.
