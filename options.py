@@ -32,7 +32,7 @@ def reset_high_score():
     tkinter.messagebox.showinfo(title="Done!",message= "已重置！")
 
 def view_website():
-    tkinter.messagebox.showinfo(title='Credit',message= 'Inspired by Eric Matthes,\nDeveloped by Scorpion1997')
+    tkinter.messagebox.showinfo(title='Credit',message= 'Inspired by Eric Matthes,\nDeveloped by Springfield4ever')
     webbrowser.open('https://www.pygame.org/news')
 
 window=tk.Tk()
