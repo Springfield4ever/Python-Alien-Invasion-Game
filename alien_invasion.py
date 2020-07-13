@@ -42,4 +42,9 @@ def run_game():
         else:
             sound.unpause_main_title()
         gf.update_screen(ai_settings,screen,stats,sb,ship,aliens,bullets,play_button)
-#run_game()
+
+def main():
+    run_game()
+
+if __name__=='__main__':
+    main()
