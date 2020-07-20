@@ -22,7 +22,7 @@ def start_game():
         run_game()
 
 def show_help():
-    tkinter.messagebox.showinfo(title= '帮助', message= '方向键←→移动，P键开始游戏，Q键退出\n推荐设置：窗口尺寸1200x800，游戏节奏1.1，自机数3')
+    tkinter.messagebox.showinfo(title= '帮助', message= '方向键←→移动，空格键发射子弹，P键开始游戏，Q键退出\n推荐设置：窗口尺寸1200x800，游戏节奏1.1，自机数3')
 
 def reset_high_score():
     try:
